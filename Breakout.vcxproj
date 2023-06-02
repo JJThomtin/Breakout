@@ -20,10 +20,12 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Game.h" />
+    <ClInclude Include="Paddle.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Breakout.cpp" />
     <ClCompile Include="Game.cpp" />
+    <ClCompile Include="Paddle.cpp" />
   </ItemGroup>
   <ItemGroup>
     <Library Include="SDL3.lib" />

@@ -1,2 +1,4 @@
 ﻿  Game.cpp
+E:\Programming\20 Games Challenge\Breakout\Breakout\Game.cpp(32,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+E:\Programming\20 Games Challenge\Breakout\Breakout\Game.cpp(32,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
   Breakout.vcxproj -> E:\Programming\20 Games Challenge\Breakout\Breakout\x64\Debug\Breakout.exe
